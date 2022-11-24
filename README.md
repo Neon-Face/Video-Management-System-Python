@@ -7,6 +7,7 @@ Make sure that
 3. use 'root@localhost' and '123456' to connect to mysql
 
 Feel free to try MMS.exe
+Just execute MMS.py
 login username: root
 login password: 123456
 
