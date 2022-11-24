@@ -6,5 +6,9 @@ Make sure that
 2. you have already create a database named "movie" and a table inside named 'video'
 3. use 'root@localhost' and '123456' to connect to mysql
 
+Feel free to try MMS.exe
+login username: root
+login password: 123456
+
 Enjoy :)
 
